@@ -1,3 +1,4 @@
+
 // importa dependência do express
 import express, { NextFunction, Request, Response } from 'express';
 // importa a dependência do express para erro
@@ -51,3 +52,4 @@ servidor.listen(3333, () => {
     console.log(`Server up and running`)
 
 })
+
